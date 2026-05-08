@@ -3,10 +3,9 @@ Social Media Finder - Scan 100+ Platforms Instantly
 🔍 UserLooker-Pro | OSINT Social Searcher 🚀
 A powerful, standalone Python-based OSINT (Open Source Intelligence) tool designed to quickly pivot between social media platforms and digital footprints. Stop opening tabs manually—just type a username and launch.
 
-✨ Features
-🎯 Multi-Platform Pivot: Search across Discord, Telegram, TikTok, Instagram, X (Twitter), GitHub, and more with one click.
+✨ Features:
 
-🛡️ Privacy First: Unlike web-based directory listings, this tool runs locally and doesn't expose your system files.
+🎯 Multi-Platform Pivot: Search across Discord, Telegram, TikTok, Instagram, X (Twitter), GitHub, and more with one click.
 
 🎨 Modern UI: Built with CustomTkinter for a sleek, dark-mode dashboard experience.
 
