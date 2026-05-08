@@ -1,2 +1,2 @@
 # social-searcher
-search usernames over 100 sites only with username
+Social Media Finder - Scan 100+ Platforms Instantly
