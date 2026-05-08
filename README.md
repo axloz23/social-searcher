@@ -1,2 +1,2 @@
 # social-searcher
-search over 100 programs only with username
+search usernames over 100 sites only with username
