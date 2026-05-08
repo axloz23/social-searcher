@@ -21,11 +21,11 @@ A powerful, standalone Python-based OSINT (Open Source Intelligence) tool design
 Clone the repo:
 
 Bash
-git clone https://github.com/yourusername/UserLooker-Pro.git
+```git clone https://github.com/yourusername/UserLooker-Pro.git```
 Install dependencies:
 
 Bash
-pip install customtkinter
+```pip install customtkinter```
 Launch the App:
 
 Bash
